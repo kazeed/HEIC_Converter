@@ -1,5 +1,8 @@
 ﻿# KZZ's HEIC Converter
 
+![Screenshot](https://github.com/kazeed/HEIC_Converter/blob/main/screenshot.png)
+
+
 This little tool allows conversion of HEIC image files into JPG, in a lossless manner, scanning a source folder and its subfolders for .heic files.
 
 ## Requirements
